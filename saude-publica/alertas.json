@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-24T10:01:43+00:00",
+  "checked_at": "2026-11-24T22:33:13+00:00",
   "update_state": "ok",
   "description": "Publicações extraídas de fontes públicas oficiais. Não é alerta de emergência, não é vigilância em tempo real, não indica risco local automaticamente.",
   "sources": [
@@ -17,10 +17,18 @@
     {
       "source": "parana",
       "status": "checked",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
+    {
+      "city": "foz",
+      "source": "Secretaria de Saúde do Paraná",
+      "scope": "Paraná · Foz do Iguaçu (abrangência estadual)",
+      "title": "Vigilância ativa: Com estratégia do monitoramento de epizootias, Paraná segue livre da febre amarela desde 2019",
+      "url": "https://www.saude.pr.gov.br/Noticia/Vigilancia-ativa-Com-estrategia-do-monitoramento-de-epizootias-Parana-segue-livre-da-febre",
+      "published": "2026-11-24T15:12:34+00:00"
+    },
     {
       "city": "cde",
       "source": "DGVS — Paraguai",
