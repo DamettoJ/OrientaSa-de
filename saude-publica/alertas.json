@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-25T21:47:16+00:00",
+  "checked_at": "2026-11-26T08:31:44+00:00",
   "update_state": "ok",
   "description": "Publicações extraídas de fontes públicas oficiais. Não é alerta de emergência, não é vigilância em tempo real, não indica risco local automaticamente.",
   "sources": [
     {
       "source": "dgvs",
       "status": "checked",
-      "count": 4
+      "count": 5
     },
     {
       "source": "misiones",
@@ -21,6 +21,14 @@
     }
   ],
   "items": [
+    {
+      "city": "cde",
+      "source": "DGVS — Paraguai",
+      "scope": "Paraguai · Alto Paraná (abrangência nacional)",
+      "title": "Apertura oficial a la XVII Muestra Nacional de Epidemiología",
+      "url": "https://dgvs.mspbs.gov.py/apertura-oficial-a-la-xvii-muestra-nacional-de-epidemiologia/",
+      "published": "2026-11-26T01:33:29+00:00"
+    },
     {
       "city": "foz",
       "source": "Secretaria de Saúde do Paraná",
