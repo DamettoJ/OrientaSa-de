@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-27T08:44:33+00:00",
+  "checked_at": "2026-11-27T21:25:30+00:00",
   "update_state": "ok",
   "description": "Publicações extraídas de fontes públicas oficiais. Não é alerta de emergência, não é vigilância em tempo real, não indica risco local automaticamente.",
   "sources": [
     {
       "source": "dgvs",
       "status": "checked",
-      "count": 5
+      "count": 6
     },
     {
       "source": "misiones",
@@ -17,10 +17,34 @@
     {
       "source": "parana",
       "status": "checked",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
+    {
+      "city": "cde",
+      "source": "DGVS — Paraguai",
+      "scope": "Paraguai · Alto Paraná (abrangência nacional)",
+      "title": "Mpox: Salud Pública intensifica vigilancia ante aumento de casos",
+      "url": "https://dgvs.mspbs.gov.py/salud-publica-intensifica-la-vigilancia-ante-el-aumento-de-casos-de-mpox/",
+      "published": "2026-11-27T16:00:59+00:00"
+    },
+    {
+      "city": "foz",
+      "source": "Secretaria de Saúde do Paraná",
+      "scope": "Paraná · Foz do Iguaçu (abrangência estadual)",
+      "title": "Com 100% de cobertura vacinal contra a gripe, Paraná consolida modelo de proteção materna e infantil",
+      "url": "https://www.saude.pr.gov.br/Noticia/Com-100-de-cobertura-vacinal-contra-gripe-Parana-consolida-modelo-de-protecao-materna-e",
+      "published": "2026-11-27T14:07:30+00:00"
+    },
+    {
+      "city": "cde",
+      "source": "DGVS — Paraguai",
+      "scope": "Paraguai · Alto Paraná (abrangência nacional)",
+      "title": "Siguen subiendo las notificaciones de sospecha de dengue, pero sin casos confirmados hasta el momento",
+      "url": "https://dgvs.mspbs.gov.py/siguen-subiendo-las-notificaciones-de-sospecha-de-dengue-pero-sin-casos-confirmados-hasta-el-momento/",
+      "published": "2026-11-27T11:21:27+00:00"
+    },
     {
       "city": "cde",
       "source": "DGVS — Paraguai",
@@ -60,14 +84,6 @@
       "title": "Vigilancia activa de Mpox: suman 9 los casos confirmados",
       "url": "https://dgvs.mspbs.gov.py/vigilancia-activa-de-mpox-suman-9-los-casos-confirmados/",
       "published": "2026-11-19T17:52:34+00:00"
-    },
-    {
-      "city": "cde",
-      "source": "DGVS — Paraguai",
-      "scope": "Paraguai · Alto Paraná (abrangência nacional)",
-      "title": "Muestra Nacional de Epidemiología: descubra las charlas, simposios y ponencias de este año",
-      "url": "https://dgvs.mspbs.gov.py/muestra-nacional-de-epidemiologia-descubra-las-charlas-simposios-y-ponencias-de-este-ano/",
-      "published": "2026-11-16T22:08:12+00:00"
     }
   ]
 }
